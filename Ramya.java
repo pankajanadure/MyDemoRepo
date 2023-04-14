@@ -2,6 +2,6 @@ public class Ramya
 {
   public void display()
   {
-    System.out.println("Just for Demo");
+    System.out.println("Adding some useful logic");
   }
 }
